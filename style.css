@@ -28,7 +28,7 @@ body{
     padding-top: 4.11vh;
     padding-left: 3.13vw;
     padding-right: 3.13vw;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.795), rgba(22, 22, 22, 0.5)), url("/images/cover.jpg");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.795), rgba(22, 22, 22, 0.5)), url("images/cover.jpg");
     height:fit-content;
     background-position: center;
     background-repeat: cover;
